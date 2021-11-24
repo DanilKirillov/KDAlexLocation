@@ -26,7 +26,6 @@ class MainActivity: AppCompatActivity() {
 
         latitudeText = findViewById(R.id.latitude)
         longitudeText = findViewById(R.id.longitude)
-
         fusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this)
     }
 
