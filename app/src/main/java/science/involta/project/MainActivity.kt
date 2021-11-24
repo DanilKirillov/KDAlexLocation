@@ -1,5 +1,7 @@
 package science.involta.project
 
+// This is project demonstration location LATITUDE LONGITUDE implementation 'com.google.android.gms:play-services-location:18.0.0'
+
 import android.Manifest
 import android.annotation.SuppressLint
 import android.content.pm.PackageManager
